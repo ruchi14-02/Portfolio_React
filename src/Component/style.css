@@ -1,0 +1,57 @@
+.menucolor{
+    background-color: rgb(34, 81, 34);
+}
+.headings{
+    text-shadow: 2px 2px 2px rgb(214, 174, 174);
+}
+.margin{
+    margin:5px;
+}
+.imagesize{
+    width:200px;
+    height:200px;
+    
+}
+.jsimagesize{
+    width:300px;
+    height:200px;
+}
+.boxshadow{
+    text-shadow: 5px 2px 2px rgb(145, 156, 145);
+}
+
+.cardShadow{
+    box-shadow: 5px 2px 2px rgb(145, 156, 145);
+    border-radius: 3px;
+}
+
+/* .imgandartical{
+    background: url("./images/gredient.jpg");
+} */
+.myname{
+    font-size: 30px;
+    color:Teal;
+    font-weight: bolder;
+    float: left;
+    margin-left:0px;
+    position: relative;
+    top:320%;
+    left:8%;
+    font-size: 30px;
+  text-shadow: 3px 3px 3px rgb(143, 181, 181);
+
+
+}
+
+
+.myimage>img{
+    width:200px;
+    height:200px;
+    border-radius:150%;
+
+    margin-right:300px;
+    box-shadow: 5px 3px 3px grey;
+    position:relative;
+    top:35%;
+    left:35%;
+}
